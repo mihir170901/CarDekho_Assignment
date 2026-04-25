@@ -60,3 +60,22 @@ Also added a one-line scope reminder to the `SYSTEM_PROMPT` used during initial 
 **Design decision:** When a user changes a param (fuel, budget, etc.), always re-search the full catalog — never just the current shortlist. The shortlist-only path only makes sense for factual questions ("does the Nexon come in diesel?"), not param changes.
 
 **Files changed:** `app.py`
+
+---
+
+## Bug 5 — Follow-up responses rendered as unstyled plain text
+
+**Symptom:** After the shortlist was shown, asking "compare #1 and #2" or "tell me more about car 1" returned a plain wall of text with no formatting — inconsistent with the clean card UI used for the shortlist.
+
+**Fix (part 1 — AI output):** Updated the `get_followup_response` prompt to instruct the AI to return structured markdown:
+- Comparisons → markdown table
+- Detailed car info → bold headings + bullet points
+- Simple answers → short prose with **bold** key terms
+
+**Fix (part 2 — rendering):** Added CSS targeting `[data-testid="stChatMessage"]` to style the markdown output on-theme:
+- Headings (`###`) → dark text with left orange border accent (mirrors the "why" text style in car cards)
+- Bullet markers → orange dots, text stays dark
+- Tables → dark header row, alternating white/light-grey rows, first column with orange left border and warm `#FFF3E8` background
+- Bold text → dark `#1A1A1A`, not orange (orange reserved for structural accents only)
+
+**Files changed:** `backend/recommender.py`, `app.py`

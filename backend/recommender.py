@@ -4,7 +4,14 @@ from openai import OpenAI
 from dotenv import load_dotenv
 
 load_dotenv()
-client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+
+try:
+    import streamlit as st
+    api_key = st.secrets.get("OPENAI_API_KEY") or os.getenv("OPENAI_API_KEY")
+except Exception:
+    api_key = os.getenv("OPENAI_API_KEY")
+
+client = OpenAI(api_key=api_key)
 
 SYSTEM_PROMPT = """You are an expert Indian car buying advisor for CarDekho India. Your job is to help confused buyers find their perfect car from CarDekho's catalog.
 
@@ -101,7 +108,13 @@ Recent conversation:
 
 Buyer's question: {user_message}
 
-Keep responses under 150 words. Be direct and helpful."""
+Formatting rules:
+- Use **bold** for car names, spec values, and key terms
+- For comparisons: use a small markdown table or two clearly headed sections (e.g. ### Honda City vs Hyundai Verna)
+- For detailed info on one car: use short bullet points grouped under a bold heading (e.g. **Performance**, **Comfort**, **Value**)
+- For simple questions: 2-3 sentences is fine, still use **bold** for key terms
+- Never write a wall of plain text — always add structure
+- Keep it concise, under 200 words total"""
 
     response = client.chat.completions.create(
         model="gpt-4o-mini",
