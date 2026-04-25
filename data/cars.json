@@ -1,0 +1,3297 @@
+[
+  {
+    "id": "maruti-alto-k10-vxi-2024",
+    "make": "Maruti Suzuki",
+    "model": "Alto K10",
+    "variant": "VXi",
+    "year": 2024,
+    "segment": "hatchback",
+    "price_lakhs": 4.49,
+    "fuel_type": "Petrol",
+    "transmission": [
+      "Manual",
+      "AMT"
+    ],
+    "mileage_kmpl": 24.9,
+    "engine_cc": 998,
+    "seating_capacity": 5,
+    "boot_space_litres": 214,
+    "safety_rating_ncap": 2,
+    "reliability_score": 7.5,
+    "maintenance_cost": "Low",
+    "primary_use": [
+      "City"
+    ],
+    "resale_value": "Medium",
+    "service_availability": "Pan-India",
+    "pros": [
+      "Lowest running cost",
+      "Easy to park",
+      "Wide service network"
+    ],
+    "cons": [
+      "Basic features",
+      "Low safety rating",
+      "Underpowered on highways"
+    ],
+    "user_reviews": [
+      "Perfect first car for city use.",
+      "Very affordable to maintain.",
+      "Feels cramped for 4 adults."
+    ]
+  },
+  {
+    "id": "maruti-swift-vxi-2024",
+    "make": "Maruti Suzuki",
+    "model": "Swift",
+    "variant": "VXi",
+    "year": 2024,
+    "segment": "hatchback",
+    "price_lakhs": 7.19,
+    "fuel_type": "Petrol",
+    "transmission": [
+      "Manual",
+      "AMT"
+    ],
+    "mileage_kmpl": 23.2,
+    "engine_cc": 1197,
+    "seating_capacity": 5,
+    "boot_space_litres": 268,
+    "safety_rating_ncap": 3,
+    "reliability_score": 8.2,
+    "maintenance_cost": "Low",
+    "primary_use": [
+      "City",
+      "Mixed"
+    ],
+    "resale_value": "High",
+    "service_availability": "Pan-India",
+    "pros": [
+      "Best-in-class mileage",
+      "Low maintenance",
+      "Fun to drive"
+    ],
+    "cons": [
+      "Basic interior",
+      "Rear seat slightly cramped"
+    ],
+    "user_reviews": [
+      "Great city car, very fuel efficient.",
+      "Service is easy to find anywhere.",
+      "Back seat cramped for tall passengers."
+    ]
+  },
+  {
+    "id": "hyundai-grand-i10-nios-sportz-2024",
+    "make": "Hyundai",
+    "model": "Grand i10 Nios",
+    "variant": "Sportz",
+    "year": 2024,
+    "segment": "hatchback",
+    "price_lakhs": 7.85,
+    "fuel_type": "Petrol",
+    "transmission": [
+      "Manual",
+      "AMT"
+    ],
+    "mileage_kmpl": 20.7,
+    "engine_cc": 1197,
+    "seating_capacity": 5,
+    "boot_space_litres": 260,
+    "safety_rating_ncap": 3,
+    "reliability_score": 8.0,
+    "maintenance_cost": "Low",
+    "primary_use": [
+      "City",
+      "Mixed"
+    ],
+    "resale_value": "High",
+    "service_availability": "Pan-India",
+    "pros": [
+      "Feature-rich for price",
+      "Comfortable ride",
+      "Good resale value"
+    ],
+    "cons": [
+      "AMT can be jerky",
+      "Rear visibility limited"
+    ],
+    "user_reviews": [
+      "Great features at this price.",
+      "Comfortable for city driving.",
+      "AMT hesitates sometimes."
+    ]
+  },
+  {
+    "id": "tata-tiago-xz-plus-2024",
+    "make": "Tata",
+    "model": "Tiago",
+    "variant": "XZ+",
+    "year": 2024,
+    "segment": "hatchback",
+    "price_lakhs": 8.1,
+    "fuel_type": "Petrol",
+    "transmission": [
+      "Manual",
+      "AMT"
+    ],
+    "mileage_kmpl": 19.8,
+    "engine_cc": 1199,
+    "seating_capacity": 5,
+    "boot_space_litres": 242,
+    "safety_rating_ncap": 4,
+    "reliability_score": 7.8,
+    "maintenance_cost": "Low",
+    "primary_use": [
+      "City",
+      "Mixed"
+    ],
+    "resale_value": "Medium",
+    "service_availability": "Pan-India",
+    "pros": [
+      "Best safety in segment",
+      "Solid build quality",
+      "Feature packed"
+    ],
+    "cons": [
+      "Service network smaller than Maruti",
+      "Slightly higher maintenance"
+    ],
+    "user_reviews": [
+      "Best safety in hatchback segment.",
+      "Very solid build quality.",
+      "Service centers fewer than Maruti."
+    ]
+  },
+  {
+    "id": "maruti-baleno-alpha-2024",
+    "make": "Maruti Suzuki",
+    "model": "Baleno",
+    "variant": "Alpha",
+    "year": 2024,
+    "segment": "hatchback",
+    "price_lakhs": 9.49,
+    "fuel_type": "Petrol",
+    "transmission": [
+      "Manual",
+      "AMT"
+    ],
+    "mileage_kmpl": 22.4,
+    "engine_cc": 1197,
+    "seating_capacity": 5,
+    "boot_space_litres": 318,
+    "safety_rating_ncap": 2,
+    "reliability_score": 8.4,
+    "maintenance_cost": "Low",
+    "primary_use": [
+      "City",
+      "Mixed"
+    ],
+    "resale_value": "High",
+    "service_availability": "Pan-India",
+    "pros": [
+      "Spacious interior",
+      "Excellent mileage",
+      "Large boot"
+    ],
+    "cons": [
+      "Low safety rating",
+      "No diesel option"
+    ],
+    "user_reviews": [
+      "Most spacious hatchback I've driven.",
+      "Fuel efficiency is outstanding.",
+      "Safety rating is disappointing."
+    ]
+  },
+  {
+    "id": "hyundai-i20-asta-2024",
+    "make": "Hyundai",
+    "model": "i20",
+    "variant": "Asta",
+    "year": 2024,
+    "segment": "hatchback",
+    "price_lakhs": 10.5,
+    "fuel_type": "Petrol",
+    "transmission": [
+      "Manual",
+      "IVT"
+    ],
+    "mileage_kmpl": 20.35,
+    "engine_cc": 1197,
+    "seating_capacity": 5,
+    "boot_space_litres": 311,
+    "safety_rating_ncap": 3,
+    "reliability_score": 8.3,
+    "maintenance_cost": "Medium",
+    "primary_use": [
+      "City",
+      "Mixed"
+    ],
+    "resale_value": "High",
+    "service_availability": "Pan-India",
+    "pros": [
+      "Premium feel",
+      "Loaded features",
+      "Sunroof available"
+    ],
+    "cons": [
+      "Higher maintenance than Maruti",
+      "IVT not as responsive"
+    ],
+    "user_reviews": [
+      "Feels premium inside.",
+      "Loaded with features.",
+      "Service is a bit expensive."
+    ]
+  },
+  {
+    "id": "volkswagen-polo-highline-2023",
+    "make": "Volkswagen",
+    "model": "Polo",
+    "variant": "Highline",
+    "year": 2023,
+    "segment": "hatchback",
+    "price_lakhs": 10.99,
+    "fuel_type": "Petrol",
+    "transmission": [
+      "Manual"
+    ],
+    "mileage_kmpl": 16.47,
+    "engine_cc": 999,
+    "seating_capacity": 5,
+    "boot_space_litres": 280,
+    "safety_rating_ncap": 4,
+    "reliability_score": 7.5,
+    "maintenance_cost": "High",
+    "primary_use": [
+      "City",
+      "Mixed"
+    ],
+    "resale_value": "Medium",
+    "service_availability": "Limited",
+    "pros": [
+      "European build quality",
+      "Fun driving dynamics",
+      "Strong safety"
+    ],
+    "cons": [
+      "High maintenance cost",
+      "Limited service centers",
+      "No automatic option"
+    ],
+    "user_reviews": [
+      "Best driving dynamics in segment.",
+      "Expensive to service.",
+      "Service centers are hard to find outside metros."
+    ]
+  },
+  {
+    "id": "renault-kwid-rxt-2024",
+    "make": "Renault",
+    "model": "Kwid",
+    "variant": "RXT",
+    "year": 2024,
+    "segment": "hatchback",
+    "price_lakhs": 5.49,
+    "fuel_type": "Petrol",
+    "transmission": [
+      "Manual",
+      "AMT"
+    ],
+    "mileage_kmpl": 22.3,
+    "engine_cc": 999,
+    "seating_capacity": 5,
+    "boot_space_litres": 279,
+    "safety_rating_ncap": 1,
+    "reliability_score": 7.0,
+    "maintenance_cost": "Low",
+    "primary_use": [
+      "City"
+    ],
+    "resale_value": "Low",
+    "service_availability": "Limited",
+    "pros": [
+      "SUV-inspired design",
+      "Good ground clearance",
+      "Budget friendly"
+    ],
+    "cons": [
+      "Very low safety rating",
+      "Not for highways",
+      "Limited service network"
+    ],
+    "user_reviews": [
+      "Unique design at low price.",
+      "Good for city and rough roads.",
+      "Safety rating is a concern."
+    ]
+  },
+  {
+    "id": "maruti-wagon-r-vxi-cng-2024",
+    "make": "Maruti Suzuki",
+    "model": "Wagon R",
+    "variant": "VXi CNG",
+    "year": 2024,
+    "segment": "hatchback",
+    "price_lakhs": 7.43,
+    "fuel_type": "CNG",
+    "transmission": [
+      "Manual"
+    ],
+    "mileage_kmpl": 34.05,
+    "engine_cc": 1197,
+    "seating_capacity": 5,
+    "boot_space_litres": 341,
+    "safety_rating_ncap": 2,
+    "reliability_score": 8.0,
+    "maintenance_cost": "Low",
+    "primary_use": [
+      "City"
+    ],
+    "resale_value": "Medium",
+    "service_availability": "Pan-India",
+    "pros": [
+      "Lowest fuel cost",
+      "Very spacious",
+      "Tall boy design"
+    ],
+    "cons": [
+      "CNG limits boot space",
+      "Only manual gearbox",
+      "Not great on highways"
+    ],
+    "user_reviews": [
+      "Running cost is unbelievably low.",
+      "Very spacious for a hatchback.",
+      "CNG tank takes up boot space."
+    ]
+  },
+  {
+    "id": "tata-tiago-cng-xz-2024",
+    "make": "Tata",
+    "model": "Tiago CNG",
+    "variant": "XZ",
+    "year": 2024,
+    "segment": "hatchback",
+    "price_lakhs": 8.69,
+    "fuel_type": "CNG",
+    "transmission": [
+      "Manual"
+    ],
+    "mileage_kmpl": 26.49,
+    "engine_cc": 1199,
+    "seating_capacity": 5,
+    "boot_space_litres": 242,
+    "safety_rating_ncap": 4,
+    "reliability_score": 7.8,
+    "maintenance_cost": "Low",
+    "primary_use": [
+      "City"
+    ],
+    "resale_value": "Medium",
+    "service_availability": "Pan-India",
+    "pros": [
+      "Best safety CNG hatchback",
+      "Low running cost",
+      "Solid build"
+    ],
+    "cons": [
+      "Only manual",
+      "Limited boot with CNG kit"
+    ],
+    "user_reviews": [
+      "Safest CNG hatchback available.",
+      "Running cost is very low.",
+      "Boot is small with the CNG cylinder."
+    ]
+  },
+  {
+    "id": "hyundai-grand-i10-nios-cng-2024",
+    "make": "Hyundai",
+    "model": "Grand i10 Nios CNG",
+    "variant": "Magna",
+    "year": 2024,
+    "segment": "hatchback",
+    "price_lakhs": 8.21,
+    "fuel_type": "CNG",
+    "transmission": [
+      "Manual"
+    ],
+    "mileage_kmpl": 31.2,
+    "engine_cc": 1197,
+    "seating_capacity": 5,
+    "boot_space_litres": 260,
+    "safety_rating_ncap": 3,
+    "reliability_score": 7.9,
+    "maintenance_cost": "Low",
+    "primary_use": [
+      "City"
+    ],
+    "resale_value": "Medium",
+    "service_availability": "Pan-India",
+    "pros": [
+      "Excellent CNG mileage",
+      "Comfortable seats",
+      "Easy to drive"
+    ],
+    "cons": [
+      "Only manual transmission",
+      "Basic infotainment"
+    ],
+    "user_reviews": [
+      "Great mileage on CNG.",
+      "Comfortable city commuter.",
+      "Infotainment is basic but functional."
+    ]
+  },
+  {
+    "id": "maruti-swift-dzire-vxi-2024",
+    "make": "Maruti Suzuki",
+    "model": "Dzire",
+    "variant": "VXi",
+    "year": 2024,
+    "segment": "sedan",
+    "price_lakhs": 7.84,
+    "fuel_type": "Petrol",
+    "transmission": [
+      "Manual",
+      "AMT"
+    ],
+    "mileage_kmpl": 24.12,
+    "engine_cc": 1197,
+    "seating_capacity": 5,
+    "boot_space_litres": 378,
+    "safety_rating_ncap": 3,
+    "reliability_score": 8.5,
+    "maintenance_cost": "Low",
+    "primary_use": [
+      "City",
+      "Mixed"
+    ],
+    "resale_value": "High",
+    "service_availability": "Pan-India",
+    "pros": [
+      "Excellent mileage",
+      "Large boot",
+      "Low maintenance"
+    ],
+    "cons": [
+      "Basic rear suspension",
+      "Underpowered for highways"
+    ],
+    "user_reviews": [
+      "Best mileage sedan in India.",
+      "Boot space is very practical.",
+      "Highway performance is average."
+    ]
+  },
+  {
+    "id": "nissan-magnite-xv-premium-2024",
+    "make": "Nissan",
+    "model": "Magnite",
+    "variant": "XV Premium",
+    "year": 2024,
+    "segment": "hatchback",
+    "price_lakhs": 9.99,
+    "fuel_type": "Petrol",
+    "transmission": [
+      "Manual",
+      "CVT"
+    ],
+    "mileage_kmpl": 20.0,
+    "engine_cc": 999,
+    "seating_capacity": 5,
+    "boot_space_litres": 336,
+    "safety_rating_ncap": 4,
+    "reliability_score": 7.6,
+    "maintenance_cost": "Medium",
+    "primary_use": [
+      "City",
+      "Mixed"
+    ],
+    "resale_value": "Medium",
+    "service_availability": "Limited",
+    "pros": [
+      "Turbo engine punch",
+      "Good safety rating",
+      "Feature packed"
+    ],
+    "cons": [
+      "Limited service network",
+      "CVT not very efficient"
+    ],
+    "user_reviews": [
+      "Turbo engine is punchy.",
+      "Great features for price.",
+      "Service centers are limited."
+    ]
+  },
+  {
+    "id": "renault-triber-rxz-2024",
+    "make": "Renault",
+    "model": "Triber",
+    "variant": "RXZ",
+    "year": 2024,
+    "segment": "hatchback",
+    "price_lakhs": 8.99,
+    "fuel_type": "Petrol",
+    "transmission": [
+      "Manual",
+      "AMT"
+    ],
+    "mileage_kmpl": 18.97,
+    "engine_cc": 999,
+    "seating_capacity": 7,
+    "boot_space_litres": 625,
+    "safety_rating_ncap": 4,
+    "reliability_score": 7.4,
+    "maintenance_cost": "Medium",
+    "primary_use": [
+      "City",
+      "Mixed"
+    ],
+    "resale_value": "Low",
+    "service_availability": "Limited",
+    "pros": [
+      "7-seater at hatchback price",
+      "Flexible seating",
+      "Good safety rating"
+    ],
+    "cons": [
+      "Limited service network",
+      "Underpowered with 7 occupants"
+    ],
+    "user_reviews": [
+      "7 seats at this price is unbeatable.",
+      "Flexible seating for families.",
+      "Feels slow when fully loaded."
+    ]
+  },
+  {
+    "id": "maruti-celerio-zxi-plus-2024",
+    "make": "Maruti Suzuki",
+    "model": "Celerio",
+    "variant": "ZXi+",
+    "year": 2024,
+    "segment": "hatchback",
+    "price_lakhs": 7.69,
+    "fuel_type": "Petrol",
+    "transmission": [
+      "Manual",
+      "AMT"
+    ],
+    "mileage_kmpl": 26.68,
+    "engine_cc": 998,
+    "seating_capacity": 5,
+    "boot_space_litres": 235,
+    "safety_rating_ncap": 1,
+    "reliability_score": 7.8,
+    "maintenance_cost": "Low",
+    "primary_use": [
+      "City"
+    ],
+    "resale_value": "Medium",
+    "service_availability": "Pan-India",
+    "pros": [
+      "Highest mileage petrol hatchback",
+      "Very low maintenance",
+      "Light and easy to drive"
+    ],
+    "cons": [
+      "Very low safety rating",
+      "Small boot",
+      "Basic features"
+    ],
+    "user_reviews": [
+      "Unbeatable mileage.",
+      "Easy to drive in traffic.",
+      "Safety is a concern for families."
+    ]
+  },
+  {
+    "id": "honda-amaze-vx-2024",
+    "make": "Honda",
+    "model": "Amaze",
+    "variant": "VX",
+    "year": 2024,
+    "segment": "sedan",
+    "price_lakhs": 9.95,
+    "fuel_type": "Petrol",
+    "transmission": [
+      "Manual",
+      "CVT"
+    ],
+    "mileage_kmpl": 18.6,
+    "engine_cc": 1199,
+    "seating_capacity": 5,
+    "boot_space_litres": 420,
+    "safety_rating_ncap": 4,
+    "reliability_score": 8.2,
+    "maintenance_cost": "Medium",
+    "primary_use": [
+      "City",
+      "Mixed"
+    ],
+    "resale_value": "High",
+    "service_availability": "Pan-India",
+    "pros": [
+      "Spacious boot",
+      "Reliable engine",
+      "Smooth CVT"
+    ],
+    "cons": [
+      "Average mileage",
+      "Plain exterior design"
+    ],
+    "user_reviews": [
+      "Very practical family sedan.",
+      "CVT is smooth in traffic.",
+      "Design feels a bit dated."
+    ]
+  },
+  {
+    "id": "honda-city-v-2024",
+    "make": "Honda",
+    "model": "City",
+    "variant": "V",
+    "year": 2024,
+    "segment": "sedan",
+    "price_lakhs": 13.99,
+    "fuel_type": "Petrol",
+    "transmission": [
+      "Manual",
+      "CVT"
+    ],
+    "mileage_kmpl": 17.8,
+    "engine_cc": 1498,
+    "seating_capacity": 5,
+    "boot_space_litres": 506,
+    "safety_rating_ncap": 5,
+    "reliability_score": 8.8,
+    "maintenance_cost": "Medium",
+    "primary_use": [
+      "City",
+      "Highway",
+      "Mixed"
+    ],
+    "resale_value": "High",
+    "service_availability": "Pan-India",
+    "pros": [
+      "5-star safety",
+      "Premium interior",
+      "Spacious rear"
+    ],
+    "cons": [
+      "Higher price point",
+      "CVT fuel efficiency average"
+    ],
+    "user_reviews": [
+      "Best-in-class interior quality.",
+      "Rear seat is very comfortable.",
+      "Slightly expensive for a sedan."
+    ]
+  },
+  {
+    "id": "hyundai-verna-sx-2024",
+    "make": "Hyundai",
+    "model": "Verna",
+    "variant": "SX",
+    "year": 2024,
+    "segment": "sedan",
+    "price_lakhs": 15.5,
+    "fuel_type": "Petrol",
+    "transmission": [
+      "Manual",
+      "IVT"
+    ],
+    "mileage_kmpl": 17.4,
+    "engine_cc": 1497,
+    "seating_capacity": 5,
+    "boot_space_litres": 528,
+    "safety_rating_ncap": 5,
+    "reliability_score": 8.5,
+    "maintenance_cost": "Medium",
+    "primary_use": [
+      "City",
+      "Highway",
+      "Mixed"
+    ],
+    "resale_value": "High",
+    "service_availability": "Pan-India",
+    "pros": [
+      "Turbo engine option",
+      "Premium features",
+      "5-star safety"
+    ],
+    "cons": [
+      "Expensive service",
+      "High price"
+    ],
+    "user_reviews": [
+      "Feels like a premium European car.",
+      "Turbo makes highway drives fun.",
+      "Service costs are on the higher side."
+    ]
+  },
+  {
+    "id": "maruti-ciaz-alpha-2024",
+    "make": "Maruti Suzuki",
+    "model": "Ciaz",
+    "variant": "Alpha",
+    "year": 2024,
+    "segment": "sedan",
+    "price_lakhs": 12.39,
+    "fuel_type": "Petrol",
+    "transmission": [
+      "Manual",
+      "AT"
+    ],
+    "mileage_kmpl": 20.65,
+    "engine_cc": 1462,
+    "seating_capacity": 5,
+    "boot_space_litres": 510,
+    "safety_rating_ncap": 3,
+    "reliability_score": 8.0,
+    "maintenance_cost": "Low",
+    "primary_use": [
+      "City",
+      "Highway",
+      "Mixed"
+    ],
+    "resale_value": "Medium",
+    "service_availability": "Pan-India",
+    "pros": [
+      "Best mileage in segment",
+      "Low maintenance",
+      "Spacious cabin"
+    ],
+    "cons": [
+      "Average safety rating",
+      "Outdated design"
+    ],
+    "user_reviews": [
+      "Mileage is unbeatable for a sedan.",
+      "Very comfortable on long trips.",
+      "Design looks a bit old now."
+    ]
+  },
+  {
+    "id": "skoda-slavia-style-2024",
+    "make": "Skoda",
+    "model": "Slavia",
+    "variant": "Style",
+    "year": 2024,
+    "segment": "sedan",
+    "price_lakhs": 17.99,
+    "fuel_type": "Petrol",
+    "transmission": [
+      "Manual",
+      "DSG"
+    ],
+    "mileage_kmpl": 16.35,
+    "engine_cc": 1498,
+    "seating_capacity": 5,
+    "boot_space_litres": 521,
+    "safety_rating_ncap": 5,
+    "reliability_score": 7.8,
+    "maintenance_cost": "High",
+    "primary_use": [
+      "City",
+      "Highway",
+      "Mixed"
+    ],
+    "resale_value": "Medium",
+    "service_availability": "Limited",
+    "pros": [
+      "European driving feel",
+      "5-star safety",
+      "DSG gearbox"
+    ],
+    "cons": [
+      "Expensive maintenance",
+      "Limited service network"
+    ],
+    "user_reviews": [
+      "Best driving dynamics in segment.",
+      "Feels solid on highways.",
+      "Service is expensive and centers are few."
+    ]
+  },
+  {
+    "id": "volkswagen-virtus-topline-2024",
+    "make": "Volkswagen",
+    "model": "Virtus",
+    "variant": "Topline",
+    "year": 2024,
+    "segment": "sedan",
+    "price_lakhs": 16.49,
+    "fuel_type": "Petrol",
+    "transmission": [
+      "Manual",
+      "DSG"
+    ],
+    "mileage_kmpl": 17.24,
+    "engine_cc": 1498,
+    "seating_capacity": 5,
+    "boot_space_litres": 521,
+    "safety_rating_ncap": 5,
+    "reliability_score": 7.7,
+    "maintenance_cost": "High",
+    "primary_use": [
+      "City",
+      "Highway",
+      "Mixed"
+    ],
+    "resale_value": "Medium",
+    "service_availability": "Limited",
+    "pros": [
+      "Solid European build",
+      "5-star safety",
+      "Fun DSG gearbox"
+    ],
+    "cons": [
+      "High service cost",
+      "Limited dealers"
+    ],
+    "user_reviews": [
+      "Incredibly solid build quality.",
+      "DSG shifts are a delight.",
+      "Dealer network needs improvement."
+    ]
+  },
+  {
+    "id": "honda-amaze-diesel-vx-2024",
+    "make": "Honda",
+    "model": "Amaze Diesel",
+    "variant": "VX",
+    "year": 2024,
+    "segment": "sedan",
+    "price_lakhs": 11.25,
+    "fuel_type": "Diesel",
+    "transmission": [
+      "Manual"
+    ],
+    "mileage_kmpl": 24.7,
+    "engine_cc": 1498,
+    "seating_capacity": 5,
+    "boot_space_litres": 420,
+    "safety_rating_ncap": 4,
+    "reliability_score": 8.0,
+    "maintenance_cost": "Medium",
+    "primary_use": [
+      "City",
+      "Highway",
+      "Mixed"
+    ],
+    "resale_value": "High",
+    "service_availability": "Pan-India",
+    "pros": [
+      "Excellent diesel mileage",
+      "Reliable",
+      "Large boot"
+    ],
+    "cons": [
+      "Only manual",
+      "Diesel noise at idle"
+    ],
+    "user_reviews": [
+      "Diesel mileage is amazing.",
+      "Very practical for long routes.",
+      "A bit noisy when idling."
+    ]
+  },
+  {
+    "id": "hyundai-aura-sx-2024",
+    "make": "Hyundai",
+    "model": "Aura",
+    "variant": "SX",
+    "year": 2024,
+    "segment": "sedan",
+    "price_lakhs": 9.49,
+    "fuel_type": "Petrol",
+    "transmission": [
+      "Manual",
+      "AMT"
+    ],
+    "mileage_kmpl": 20.5,
+    "engine_cc": 1197,
+    "seating_capacity": 5,
+    "boot_space_litres": 402,
+    "safety_rating_ncap": 3,
+    "reliability_score": 8.0,
+    "maintenance_cost": "Low",
+    "primary_use": [
+      "City",
+      "Mixed"
+    ],
+    "resale_value": "High",
+    "service_availability": "Pan-India",
+    "pros": [
+      "Good mileage",
+      "Comfortable ride",
+      "Budget sedan"
+    ],
+    "cons": [
+      "Basic features at this trim",
+      "AMT can jerk"
+    ],
+    "user_reviews": [
+      "Comfortable and efficient.",
+      "Good value for a compact sedan.",
+      "AMT is a bit jerky at low speeds."
+    ]
+  },
+  {
+    "id": "hyundai-aura-cng-2024",
+    "make": "Hyundai",
+    "model": "Aura CNG",
+    "variant": "SX",
+    "year": 2024,
+    "segment": "sedan",
+    "price_lakhs": 10.39,
+    "fuel_type": "CNG",
+    "transmission": [
+      "Manual"
+    ],
+    "mileage_kmpl": 28.4,
+    "engine_cc": 1197,
+    "seating_capacity": 5,
+    "boot_space_litres": 402,
+    "safety_rating_ncap": 3,
+    "reliability_score": 8.0,
+    "maintenance_cost": "Low",
+    "primary_use": [
+      "City"
+    ],
+    "resale_value": "Medium",
+    "service_availability": "Pan-India",
+    "pros": [
+      "Very low CNG running cost",
+      "Comfortable for city",
+      "Sedan practicality"
+    ],
+    "cons": [
+      "Only manual",
+      "Boot slightly reduced"
+    ],
+    "user_reviews": [
+      "Running cost is incredibly low.",
+      "Good for daily office commute.",
+      "Boot space reduced by CNG kit."
+    ]
+  },
+  {
+    "id": "toyota-yaris-g-2023",
+    "make": "Toyota",
+    "model": "Yaris",
+    "variant": "G",
+    "year": 2023,
+    "segment": "sedan",
+    "price_lakhs": 11.99,
+    "fuel_type": "Petrol",
+    "transmission": [
+      "Manual",
+      "CVT"
+    ],
+    "mileage_kmpl": 17.1,
+    "engine_cc": 1496,
+    "seating_capacity": 5,
+    "boot_space_litres": 476,
+    "safety_rating_ncap": 4,
+    "reliability_score": 8.6,
+    "maintenance_cost": "Low",
+    "primary_use": [
+      "City",
+      "Highway",
+      "Mixed"
+    ],
+    "resale_value": "High",
+    "service_availability": "Pan-India",
+    "pros": [
+      "Toyota reliability",
+      "Low maintenance",
+      "Comfortable long drives"
+    ],
+    "cons": [
+      "Average mileage",
+      "Discontinuation risk"
+    ],
+    "user_reviews": [
+      "Toyota reliability is unmatched.",
+      "Very comfortable on highways.",
+      "Mileage is just okay."
+    ]
+  },
+  {
+    "id": "maruti-dzire-cng-2024",
+    "make": "Maruti Suzuki",
+    "model": "Dzire CNG",
+    "variant": "ZXi",
+    "year": 2024,
+    "segment": "sedan",
+    "price_lakhs": 9.69,
+    "fuel_type": "CNG",
+    "transmission": [
+      "Manual"
+    ],
+    "mileage_kmpl": 31.12,
+    "engine_cc": 1197,
+    "seating_capacity": 5,
+    "boot_space_litres": 378,
+    "safety_rating_ncap": 3,
+    "reliability_score": 8.3,
+    "maintenance_cost": "Low",
+    "primary_use": [
+      "City"
+    ],
+    "resale_value": "High",
+    "service_availability": "Pan-India",
+    "pros": [
+      "Lowest running cost sedan",
+      "Wide service network",
+      "Reliable"
+    ],
+    "cons": [
+      "Manual only",
+      "Not for highways"
+    ],
+    "user_reviews": [
+      "Running costs are incredibly low.",
+      "Maruti reliability is top notch.",
+      "CNG filling station availability varies."
+    ]
+  },
+  {
+    "id": "honda-city-hybrid-2024",
+    "make": "Honda",
+    "model": "City Hybrid",
+    "variant": "ZX",
+    "year": 2024,
+    "segment": "sedan",
+    "price_lakhs": 19.5,
+    "fuel_type": "Hybrid",
+    "transmission": [
+      "eCVT"
+    ],
+    "mileage_kmpl": 26.5,
+    "engine_cc": 1498,
+    "seating_capacity": 5,
+    "boot_space_litres": 506,
+    "safety_rating_ncap": 5,
+    "reliability_score": 9.0,
+    "maintenance_cost": "Low",
+    "primary_use": [
+      "City",
+      "Highway",
+      "Mixed"
+    ],
+    "resale_value": "High",
+    "service_availability": "Pan-India",
+    "pros": [
+      "Excellent mileage for a sedan",
+      "5-star safety",
+      "Very smooth drive"
+    ],
+    "cons": [
+      "High upfront cost",
+      "Limited dealer network in tier-2 cities"
+    ],
+    "user_reviews": [
+      "The mileage on this is unreal.",
+      "Smoothest car I've ever driven.",
+      "Expensive but worth it for long-term savings."
+    ]
+  },
+  {
+    "id": "tata-nexon-xz-plus-2024",
+    "make": "Tata",
+    "model": "Nexon",
+    "variant": "XZ+",
+    "year": 2024,
+    "segment": "compact_suv",
+    "price_lakhs": 13.49,
+    "fuel_type": "Petrol",
+    "transmission": [
+      "Manual",
+      "AMT"
+    ],
+    "mileage_kmpl": 17.01,
+    "engine_cc": 1199,
+    "seating_capacity": 5,
+    "boot_space_litres": 350,
+    "safety_rating_ncap": 5,
+    "reliability_score": 8.0,
+    "maintenance_cost": "Medium",
+    "primary_use": [
+      "City",
+      "Mixed"
+    ],
+    "resale_value": "High",
+    "service_availability": "Pan-India",
+    "pros": [
+      "5-star safety",
+      "Stylish design",
+      "Feature-loaded"
+    ],
+    "cons": [
+      "Turbo needs premium fuel",
+      "Ride quality on bad roads"
+    ],
+    "user_reviews": [
+      "Safest compact SUV in India.",
+      "Stylish and feature-rich.",
+      "Ride can be bumpy on broken roads."
+    ]
+  },
+  {
+    "id": "tata-nexon-diesel-xz-2024",
+    "make": "Tata",
+    "model": "Nexon Diesel",
+    "variant": "XZ",
+    "year": 2024,
+    "segment": "compact_suv",
+    "price_lakhs": 14.49,
+    "fuel_type": "Diesel",
+    "transmission": [
+      "Manual",
+      "AMT"
+    ],
+    "mileage_kmpl": 21.5,
+    "engine_cc": 1497,
+    "seating_capacity": 5,
+    "boot_space_litres": 350,
+    "safety_rating_ncap": 5,
+    "reliability_score": 7.9,
+    "maintenance_cost": "Medium",
+    "primary_use": [
+      "City",
+      "Highway",
+      "Mixed"
+    ],
+    "resale_value": "High",
+    "service_availability": "Pan-India",
+    "pros": [
+      "5-star safety + diesel mileage",
+      "Highway capable",
+      "Strong torque"
+    ],
+    "cons": [
+      "Diesel service slightly complex",
+      "AMT can be slow"
+    ],
+    "user_reviews": [
+      "Best safety with good mileage.",
+      "Very capable on highways.",
+      "Diesel AMT could be smoother."
+    ]
+  },
+  {
+    "id": "maruti-brezza-zxi-2024",
+    "make": "Maruti Suzuki",
+    "model": "Brezza",
+    "variant": "ZXi+",
+    "year": 2024,
+    "segment": "compact_suv",
+    "price_lakhs": 13.99,
+    "fuel_type": "Petrol",
+    "transmission": [
+      "Manual",
+      "AT"
+    ],
+    "mileage_kmpl": 17.38,
+    "engine_cc": 1462,
+    "seating_capacity": 5,
+    "boot_space_litres": 328,
+    "safety_rating_ncap": 4,
+    "reliability_score": 8.5,
+    "maintenance_cost": "Low",
+    "primary_use": [
+      "City",
+      "Mixed"
+    ],
+    "resale_value": "High",
+    "service_availability": "Pan-India",
+    "pros": [
+      "Low maintenance",
+      "Wide service network",
+      "Reliable automatic"
+    ],
+    "cons": [
+      "Average safety for segment",
+      "Smaller boot"
+    ],
+    "user_reviews": [
+      "Maruti reliability in an SUV body.",
+      "Service is everywhere.",
+      "Boot is a bit small."
+    ]
+  },
+  {
+    "id": "hyundai-venue-sx-2024",
+    "make": "Hyundai",
+    "model": "Venue",
+    "variant": "SX",
+    "year": 2024,
+    "segment": "compact_suv",
+    "price_lakhs": 12.85,
+    "fuel_type": "Petrol",
+    "transmission": [
+      "Manual",
+      "DCT",
+      "IVT"
+    ],
+    "mileage_kmpl": 18.15,
+    "engine_cc": 1197,
+    "seating_capacity": 5,
+    "boot_space_litres": 350,
+    "safety_rating_ncap": 3,
+    "reliability_score": 8.0,
+    "maintenance_cost": "Medium",
+    "primary_use": [
+      "City",
+      "Mixed"
+    ],
+    "resale_value": "High",
+    "service_availability": "Pan-India",
+    "pros": [
+      "Connected car features",
+      "Multiple transmission options",
+      "Good city performance"
+    ],
+    "cons": [
+      "Average safety rating",
+      "DCT can be jerky in traffic"
+    ],
+    "user_reviews": [
+      "Connected tech is very useful.",
+      "Peppy in city driving.",
+      "DCT stutters in slow traffic."
+    ]
+  },
+  {
+    "id": "kia-sonet-htx-2024",
+    "make": "Kia",
+    "model": "Sonet",
+    "variant": "HTX",
+    "year": 2024,
+    "segment": "compact_suv",
+    "price_lakhs": 14.29,
+    "fuel_type": "Petrol",
+    "transmission": [
+      "Manual",
+      "DCT"
+    ],
+    "mileage_kmpl": 18.4,
+    "engine_cc": 998,
+    "seating_capacity": 5,
+    "boot_space_litres": 392,
+    "safety_rating_ncap": 3,
+    "reliability_score": 8.2,
+    "maintenance_cost": "Medium",
+    "primary_use": [
+      "City",
+      "Mixed"
+    ],
+    "resale_value": "High",
+    "service_availability": "Pan-India",
+    "pros": [
+      "Premium features",
+      "Sporty design",
+      "Largest boot in segment"
+    ],
+    "cons": [
+      "Average safety",
+      "Service cost higher than Maruti"
+    ],
+    "user_reviews": [
+      "Interior quality is outstanding.",
+      "Largest boot among compact SUVs.",
+      "Service is slightly expensive."
+    ]
+  },
+  {
+    "id": "kia-sonet-diesel-htx-2024",
+    "make": "Kia",
+    "model": "Sonet Diesel",
+    "variant": "HTX+",
+    "year": 2024,
+    "segment": "compact_suv",
+    "price_lakhs": 15.49,
+    "fuel_type": "Diesel",
+    "transmission": [
+      "Manual",
+      "AT"
+    ],
+    "mileage_kmpl": 24.1,
+    "engine_cc": 1493,
+    "seating_capacity": 5,
+    "boot_space_litres": 392,
+    "safety_rating_ncap": 3,
+    "reliability_score": 8.1,
+    "maintenance_cost": "Medium",
+    "primary_use": [
+      "Highway",
+      "Mixed"
+    ],
+    "resale_value": "High",
+    "service_availability": "Pan-India",
+    "pros": [
+      "Excellent diesel mileage",
+      "Torquey engine",
+      "Premium features"
+    ],
+    "cons": [
+      "Higher price",
+      "Average safety rating"
+    ],
+    "user_reviews": [
+      "Diesel mileage is excellent.",
+      "Torque makes overtaking easy.",
+      "Bit expensive but feature-loaded."
+    ]
+  },
+  {
+    "id": "renault-kiger-rxz-turbo-2024",
+    "make": "Renault",
+    "model": "Kiger",
+    "variant": "RXZ Turbo",
+    "year": 2024,
+    "segment": "compact_suv",
+    "price_lakhs": 10.99,
+    "fuel_type": "Petrol",
+    "transmission": [
+      "Manual",
+      "CVT"
+    ],
+    "mileage_kmpl": 20.53,
+    "engine_cc": 999,
+    "seating_capacity": 5,
+    "boot_space_litres": 405,
+    "safety_rating_ncap": 4,
+    "reliability_score": 7.4,
+    "maintenance_cost": "Medium",
+    "primary_use": [
+      "City",
+      "Mixed"
+    ],
+    "resale_value": "Low",
+    "service_availability": "Limited",
+    "pros": [
+      "Budget compact SUV",
+      "Good mileage",
+      "Large boot"
+    ],
+    "cons": [
+      "Limited service network",
+      "Lower resale value",
+      "Basic interiors"
+    ],
+    "user_reviews": [
+      "Great value for money.",
+      "Mileage is impressive for an SUV.",
+      "Service network is a concern."
+    ]
+  },
+  {
+    "id": "nissan-magnite-suv-2024",
+    "make": "Nissan",
+    "model": "Magnite",
+    "variant": "XV Premium Turbo",
+    "year": 2024,
+    "segment": "compact_suv",
+    "price_lakhs": 11.49,
+    "fuel_type": "Petrol",
+    "transmission": [
+      "Manual",
+      "CVT"
+    ],
+    "mileage_kmpl": 17.4,
+    "engine_cc": 999,
+    "seating_capacity": 5,
+    "boot_space_litres": 336,
+    "safety_rating_ncap": 4,
+    "reliability_score": 7.5,
+    "maintenance_cost": "Medium",
+    "primary_use": [
+      "City",
+      "Mixed"
+    ],
+    "resale_value": "Low",
+    "service_availability": "Limited",
+    "pros": [
+      "Budget SUV with turbo",
+      "Good safety rating",
+      "Punchy engine"
+    ],
+    "cons": [
+      "Limited service network",
+      "Low resale value"
+    ],
+    "user_reviews": [
+      "Turbo punch is surprising.",
+      "Good safety features at this price.",
+      "Nissan service centers are rare."
+    ]
+  },
+  {
+    "id": "hyundai-creta-sx-petrol-2024",
+    "make": "Hyundai",
+    "model": "Creta",
+    "variant": "SX",
+    "year": 2024,
+    "segment": "compact_suv",
+    "price_lakhs": 17.2,
+    "fuel_type": "Petrol",
+    "transmission": [
+      "Manual",
+      "IVT"
+    ],
+    "mileage_kmpl": 16.8,
+    "engine_cc": 1497,
+    "seating_capacity": 5,
+    "boot_space_litres": 433,
+    "safety_rating_ncap": 5,
+    "reliability_score": 8.6,
+    "maintenance_cost": "Medium",
+    "primary_use": [
+      "City",
+      "Highway",
+      "Mixed"
+    ],
+    "resale_value": "High",
+    "service_availability": "Pan-India",
+    "pros": [
+      "5-star safety",
+      "Premium interior",
+      "Panoramic sunroof"
+    ],
+    "cons": [
+      "Higher price",
+      "IVT not sporty"
+    ],
+    "user_reviews": [
+      "Best-in-class features and safety.",
+      "Interior feels genuinely premium.",
+      "Pricey but worth every rupee."
+    ]
+  },
+  {
+    "id": "hyundai-creta-diesel-sx-2024",
+    "make": "Hyundai",
+    "model": "Creta Diesel",
+    "variant": "SX(O)",
+    "year": 2024,
+    "segment": "compact_suv",
+    "price_lakhs": 19.5,
+    "fuel_type": "Diesel",
+    "transmission": [
+      "Manual",
+      "AT"
+    ],
+    "mileage_kmpl": 21.4,
+    "engine_cc": 1493,
+    "seating_capacity": 5,
+    "boot_space_litres": 433,
+    "safety_rating_ncap": 5,
+    "reliability_score": 8.5,
+    "maintenance_cost": "Medium",
+    "primary_use": [
+      "Highway",
+      "Mixed"
+    ],
+    "resale_value": "High",
+    "service_availability": "Pan-India",
+    "pros": [
+      "5-star safety + diesel efficiency",
+      "Loaded features",
+      "Comfortable highway cruiser"
+    ],
+    "cons": [
+      "Expensive",
+      "Wait period can be long"
+    ],
+    "user_reviews": [
+      "Perfect highway car with great mileage.",
+      "Feature list is unmatched.",
+      "Long waiting period."
+    ]
+  },
+  {
+    "id": "tata-punch-adventure-2024",
+    "make": "Tata",
+    "model": "Punch",
+    "variant": "Adventure",
+    "year": 2024,
+    "segment": "compact_suv",
+    "price_lakhs": 8.49,
+    "fuel_type": "Petrol",
+    "transmission": [
+      "Manual",
+      "AMT"
+    ],
+    "mileage_kmpl": 18.82,
+    "engine_cc": 1199,
+    "seating_capacity": 5,
+    "boot_space_litres": 366,
+    "safety_rating_ncap": 5,
+    "reliability_score": 8.0,
+    "maintenance_cost": "Low",
+    "primary_use": [
+      "City",
+      "Mixed"
+    ],
+    "resale_value": "High",
+    "service_availability": "Pan-India",
+    "pros": [
+      "5-star safety at budget price",
+      "High ground clearance",
+      "Solid build"
+    ],
+    "cons": [
+      "Small engine for highways",
+      "Rear seat tight for 3"
+    ],
+    "user_reviews": [
+      "Safest budget SUV in India.",
+      "Ground clearance handles bad roads well.",
+      "Not ideal for highway long trips."
+    ]
+  },
+  {
+    "id": "maruti-fronx-alpha-2024",
+    "make": "Maruti Suzuki",
+    "model": "Fronx",
+    "variant": "Alpha",
+    "year": 2024,
+    "segment": "compact_suv",
+    "price_lakhs": 12.49,
+    "fuel_type": "Petrol",
+    "transmission": [
+      "Manual",
+      "AT"
+    ],
+    "mileage_kmpl": 21.79,
+    "engine_cc": 998,
+    "seating_capacity": 5,
+    "boot_space_litres": 308,
+    "safety_rating_ncap": 2,
+    "reliability_score": 8.3,
+    "maintenance_cost": "Low",
+    "primary_use": [
+      "City",
+      "Mixed"
+    ],
+    "resale_value": "High",
+    "service_availability": "Pan-India",
+    "pros": [
+      "Best mileage in compact SUV segment",
+      "Low maintenance",
+      "Coupe SUV design"
+    ],
+    "cons": [
+      "Low safety rating",
+      "Small boot"
+    ],
+    "user_reviews": [
+      "Mileage is best-in-class for SUVs.",
+      "Design is very sporty.",
+      "Boot space is tight."
+    ]
+  },
+  {
+    "id": "toyota-urban-cruiser-hyryder-2024",
+    "make": "Toyota",
+    "model": "Urban Cruiser Hyryder",
+    "variant": "V Hybrid",
+    "year": 2024,
+    "segment": "compact_suv",
+    "price_lakhs": 19.69,
+    "fuel_type": "Hybrid",
+    "transmission": [
+      "eCVT"
+    ],
+    "mileage_kmpl": 27.97,
+    "engine_cc": 1490,
+    "seating_capacity": 5,
+    "boot_space_litres": 490,
+    "safety_rating_ncap": 5,
+    "reliability_score": 9.2,
+    "maintenance_cost": "Low",
+    "primary_use": [
+      "City",
+      "Highway",
+      "Mixed"
+    ],
+    "resale_value": "High",
+    "service_availability": "Pan-India",
+    "pros": [
+      "Exceptional hybrid mileage",
+      "5-star safety",
+      "Toyota reliability"
+    ],
+    "cons": [
+      "Expensive upfront",
+      "eCVT not sporty"
+    ],
+    "user_reviews": [
+      "Mileage blew my mind.",
+      "Toyota reliability gives peace of mind.",
+      "Price is high but running costs are low."
+    ]
+  },
+  {
+    "id": "maruti-grand-vitara-hybrid-2024",
+    "make": "Maruti Suzuki",
+    "model": "Grand Vitara",
+    "variant": "Alpha+ Hybrid",
+    "year": 2024,
+    "segment": "compact_suv",
+    "price_lakhs": 19.99,
+    "fuel_type": "Hybrid",
+    "transmission": [
+      "eCVT"
+    ],
+    "mileage_kmpl": 27.97,
+    "engine_cc": 1490,
+    "seating_capacity": 5,
+    "boot_space_litres": 373,
+    "safety_rating_ncap": 5,
+    "reliability_score": 9.0,
+    "maintenance_cost": "Low",
+    "primary_use": [
+      "City",
+      "Highway",
+      "Mixed"
+    ],
+    "resale_value": "High",
+    "service_availability": "Pan-India",
+    "pros": [
+      "Best mileage compact SUV",
+      "5-star safety",
+      "Wide service network"
+    ],
+    "cons": [
+      "Smaller boot than rivals",
+      "Premium pricing"
+    ],
+    "user_reviews": [
+      "Mileage is extraordinary.",
+      "Best of both worlds - SUV and hybrid.",
+      "Boot could be bigger."
+    ]
+  },
+  {
+    "id": "volkswagen-taigun-topline-2024",
+    "make": "Volkswagen",
+    "model": "Taigun",
+    "variant": "Topline",
+    "year": 2024,
+    "segment": "compact_suv",
+    "price_lakhs": 17.99,
+    "fuel_type": "Petrol",
+    "transmission": [
+      "Manual",
+      "DSG"
+    ],
+    "mileage_kmpl": 16.97,
+    "engine_cc": 1498,
+    "seating_capacity": 5,
+    "boot_space_litres": 385,
+    "safety_rating_ncap": 5,
+    "reliability_score": 7.8,
+    "maintenance_cost": "High",
+    "primary_use": [
+      "City",
+      "Highway",
+      "Mixed"
+    ],
+    "resale_value": "Medium",
+    "service_availability": "Limited",
+    "pros": [
+      "5-star safety",
+      "European build quality",
+      "Fun DSG"
+    ],
+    "cons": [
+      "High maintenance",
+      "Limited service centers"
+    ],
+    "user_reviews": [
+      "Feels the most solid of all compact SUVs.",
+      "DSG is a joy to use.",
+      "Service costs are very high."
+    ]
+  },
+  {
+    "id": "skoda-kushaq-style-2024",
+    "make": "Skoda",
+    "model": "Kushaq",
+    "variant": "Style",
+    "year": 2024,
+    "segment": "compact_suv",
+    "price_lakhs": 18.49,
+    "fuel_type": "Petrol",
+    "transmission": [
+      "Manual",
+      "DSG"
+    ],
+    "mileage_kmpl": 16.72,
+    "engine_cc": 1498,
+    "seating_capacity": 5,
+    "boot_space_litres": 385,
+    "safety_rating_ncap": 5,
+    "reliability_score": 7.7,
+    "maintenance_cost": "High",
+    "primary_use": [
+      "City",
+      "Highway",
+      "Mixed"
+    ],
+    "resale_value": "Medium",
+    "service_availability": "Limited",
+    "pros": [
+      "5-star safety",
+      "European premium feel",
+      "Spacious"
+    ],
+    "cons": [
+      "Expensive to service",
+      "Limited dealers"
+    ],
+    "user_reviews": [
+      "Premium feel is undeniable.",
+      "Spacious cabin.",
+      "Dealer and service network is sparse."
+    ]
+  },
+  {
+    "id": "mahindra-xuv300-w8-pro-2024",
+    "make": "Mahindra",
+    "model": "XUV300",
+    "variant": "W8 Pro",
+    "year": 2024,
+    "segment": "compact_suv",
+    "price_lakhs": 13.99,
+    "fuel_type": "Petrol",
+    "transmission": [
+      "Manual",
+      "AMT"
+    ],
+    "mileage_kmpl": 17.0,
+    "engine_cc": 1197,
+    "seating_capacity": 5,
+    "boot_space_litres": 257,
+    "safety_rating_ncap": 5,
+    "reliability_score": 7.8,
+    "maintenance_cost": "Medium",
+    "primary_use": [
+      "City",
+      "Mixed"
+    ],
+    "resale_value": "Medium",
+    "service_availability": "Pan-India",
+    "pros": [
+      "5-star safety",
+      "Segment-best safety features",
+      "Strong build"
+    ],
+    "cons": [
+      "Smallest boot in segment",
+      "Limited rear space"
+    ],
+    "user_reviews": [
+      "Safest compact SUV alongside Nexon.",
+      "Loaded safety features.",
+      "Rear space and boot are cramped."
+    ]
+  },
+  {
+    "id": "hyundai-venue-diesel-sx-2024",
+    "make": "Hyundai",
+    "model": "Venue Diesel",
+    "variant": "SX",
+    "year": 2024,
+    "segment": "compact_suv",
+    "price_lakhs": 13.99,
+    "fuel_type": "Diesel",
+    "transmission": [
+      "Manual"
+    ],
+    "mileage_kmpl": 23.7,
+    "engine_cc": 1493,
+    "seating_capacity": 5,
+    "boot_space_litres": 350,
+    "safety_rating_ncap": 3,
+    "reliability_score": 8.0,
+    "maintenance_cost": "Medium",
+    "primary_use": [
+      "City",
+      "Highway",
+      "Mixed"
+    ],
+    "resale_value": "High",
+    "service_availability": "Pan-India",
+    "pros": [
+      "Excellent diesel mileage",
+      "Highway capable",
+      "Good resale"
+    ],
+    "cons": [
+      "Manual only",
+      "Average safety rating"
+    ],
+    "user_reviews": [
+      "Mileage on diesel is fantastic.",
+      "Good for long highway runs.",
+      "Wish there was a diesel automatic."
+    ]
+  },
+  {
+    "id": "tata-nexon-cng-2024",
+    "make": "Tata",
+    "model": "Nexon CNG",
+    "variant": "Smart+",
+    "year": 2024,
+    "segment": "compact_suv",
+    "price_lakhs": 11.99,
+    "fuel_type": "CNG",
+    "transmission": [
+      "Manual"
+    ],
+    "mileage_kmpl": 24.0,
+    "engine_cc": 1199,
+    "seating_capacity": 5,
+    "boot_space_litres": 350,
+    "safety_rating_ncap": 5,
+    "reliability_score": 7.8,
+    "maintenance_cost": "Low",
+    "primary_use": [
+      "City"
+    ],
+    "resale_value": "High",
+    "service_availability": "Pan-India",
+    "pros": [
+      "5-star safety CNG SUV",
+      "Very low running cost",
+      "Factory-fitted CNG"
+    ],
+    "cons": [
+      "Manual only",
+      "Not for long highway trips"
+    ],
+    "user_reviews": [
+      "Safest CNG SUV available.",
+      "Factory CNG is more reliable.",
+      "Best for city commutes."
+    ]
+  },
+  {
+    "id": "kia-sonet-htx-diesel-manual-2024",
+    "make": "Kia",
+    "model": "Sonet Diesel",
+    "variant": "HTX",
+    "year": 2024,
+    "segment": "compact_suv",
+    "price_lakhs": 13.49,
+    "fuel_type": "Diesel",
+    "transmission": [
+      "Manual"
+    ],
+    "mileage_kmpl": 24.1,
+    "engine_cc": 1493,
+    "seating_capacity": 5,
+    "boot_space_litres": 392,
+    "safety_rating_ncap": 3,
+    "reliability_score": 8.1,
+    "maintenance_cost": "Medium",
+    "primary_use": [
+      "Highway",
+      "Mixed"
+    ],
+    "resale_value": "High",
+    "service_availability": "Pan-India",
+    "pros": [
+      "Excellent highway mileage",
+      "Largest boot in class",
+      "Premium features"
+    ],
+    "cons": [
+      "Manual only at this trim",
+      "Average safety"
+    ],
+    "user_reviews": [
+      "Diesel mileage makes long trips cheap.",
+      "Boot space is unmatched.",
+      "Needs a diesel automatic variant."
+    ]
+  },
+  {
+    "id": "hyundai-creta-n-line-2024",
+    "make": "Hyundai",
+    "model": "Creta N Line",
+    "variant": "N8 DCT",
+    "year": 2024,
+    "segment": "suv",
+    "price_lakhs": 20.99,
+    "fuel_type": "Petrol",
+    "transmission": [
+      "DCT"
+    ],
+    "mileage_kmpl": 16.35,
+    "engine_cc": 1497,
+    "seating_capacity": 5,
+    "boot_space_litres": 433,
+    "safety_rating_ncap": 5,
+    "reliability_score": 8.3,
+    "maintenance_cost": "Medium",
+    "primary_use": [
+      "City",
+      "Highway",
+      "Mixed"
+    ],
+    "resale_value": "High",
+    "service_availability": "Pan-India",
+    "pros": [
+      "Sporty design",
+      "5-star safety",
+      "DCT performance"
+    ],
+    "cons": [
+      "No manual option",
+      "Premium price"
+    ],
+    "user_reviews": [
+      "Looks and drives brilliantly.",
+      "Best-looking Creta variant.",
+      "Slightly over-priced for sporty trim."
+    ]
+  },
+  {
+    "id": "mahindra-scorpio-n-z8-2024",
+    "make": "Mahindra",
+    "model": "Scorpio N",
+    "variant": "Z8",
+    "year": 2024,
+    "segment": "suv",
+    "price_lakhs": 24.99,
+    "fuel_type": "Diesel",
+    "transmission": [
+      "Manual",
+      "AT"
+    ],
+    "mileage_kmpl": 16.0,
+    "engine_cc": 2184,
+    "seating_capacity": 7,
+    "boot_space_litres": 480,
+    "safety_rating_ncap": 5,
+    "reliability_score": 8.2,
+    "maintenance_cost": "Medium",
+    "primary_use": [
+      "Highway",
+      "Mixed"
+    ],
+    "resale_value": "High",
+    "service_availability": "Pan-India",
+    "pros": [
+      "5-star safety",
+      "7-seater",
+      "Powerful diesel",
+      "Road presence"
+    ],
+    "cons": [
+      "Fuel efficiency average",
+      "Large footprint in city"
+    ],
+    "user_reviews": [
+      "Most commanding road presence.",
+      "7-seater with real power.",
+      "Hard to park in city."
+    ]
+  },
+  {
+    "id": "mahindra-xuv700-ax7-2024",
+    "make": "Mahindra",
+    "model": "XUV700",
+    "variant": "AX7",
+    "year": 2024,
+    "segment": "suv",
+    "price_lakhs": 27.99,
+    "fuel_type": "Diesel",
+    "transmission": [
+      "Manual",
+      "AT"
+    ],
+    "mileage_kmpl": 16.0,
+    "engine_cc": 2184,
+    "seating_capacity": 7,
+    "boot_space_litres": 810,
+    "safety_rating_ncap": 5,
+    "reliability_score": 8.4,
+    "maintenance_cost": "Medium",
+    "primary_use": [
+      "Highway",
+      "Mixed"
+    ],
+    "resale_value": "High",
+    "service_availability": "Pan-India",
+    "pros": [
+      "5-star safety",
+      "ADAS features",
+      "Massive boot",
+      "7-seater"
+    ],
+    "cons": [
+      "Long wait periods",
+      "Complex electronics"
+    ],
+    "user_reviews": [
+      "ADAS at this price is incredible.",
+      "Most boot space in segment.",
+      "Waiting period was frustrating."
+    ]
+  },
+  {
+    "id": "tata-harrier-xz-plus-2024",
+    "make": "Tata",
+    "model": "Harrier",
+    "variant": "XZ+",
+    "year": 2024,
+    "segment": "suv",
+    "price_lakhs": 22.49,
+    "fuel_type": "Diesel",
+    "transmission": [
+      "Manual",
+      "AT"
+    ],
+    "mileage_kmpl": 16.35,
+    "engine_cc": 1956,
+    "seating_capacity": 5,
+    "boot_space_litres": 425,
+    "safety_rating_ncap": 5,
+    "reliability_score": 8.0,
+    "maintenance_cost": "Medium",
+    "primary_use": [
+      "Highway",
+      "Mixed"
+    ],
+    "resale_value": "High",
+    "service_availability": "Pan-India",
+    "pros": [
+      "5-star safety",
+      "Imposing design",
+      "Comfortable highway cruiser"
+    ],
+    "cons": [
+      "5-seater only",
+      "Complex infotainment bugs"
+    ],
+    "user_reviews": [
+      "Road presence is incredible.",
+      "Highway comfort is excellent.",
+      "Software can be glitchy sometimes."
+    ]
+  },
+  {
+    "id": "tata-safari-xz-plus-2024",
+    "make": "Tata",
+    "model": "Safari",
+    "variant": "XZ+",
+    "year": 2024,
+    "segment": "suv",
+    "price_lakhs": 24.99,
+    "fuel_type": "Diesel",
+    "transmission": [
+      "Manual",
+      "AT"
+    ],
+    "mileage_kmpl": 16.12,
+    "engine_cc": 1956,
+    "seating_capacity": 7,
+    "boot_space_litres": 447,
+    "safety_rating_ncap": 5,
+    "reliability_score": 8.1,
+    "maintenance_cost": "Medium",
+    "primary_use": [
+      "Highway",
+      "Mixed"
+    ],
+    "resale_value": "High",
+    "service_availability": "Pan-India",
+    "pros": [
+      "5-star safety",
+      "7-seater",
+      "Premium cabin feel"
+    ],
+    "cons": [
+      "Third row legroom limited",
+      "Mileage average"
+    ],
+    "user_reviews": [
+      "Best 7-seater Tata has made.",
+      "Cabin quality rivals European SUVs.",
+      "Third row is tight for adults."
+    ]
+  },
+  {
+    "id": "kia-seltos-htx-petrol-2024",
+    "make": "Kia",
+    "model": "Seltos",
+    "variant": "HTX",
+    "year": 2024,
+    "segment": "suv",
+    "price_lakhs": 18.65,
+    "fuel_type": "Petrol",
+    "transmission": [
+      "Manual",
+      "CVT"
+    ],
+    "mileage_kmpl": 16.5,
+    "engine_cc": 1497,
+    "seating_capacity": 5,
+    "boot_space_litres": 433,
+    "safety_rating_ncap": 3,
+    "reliability_score": 8.3,
+    "maintenance_cost": "Medium",
+    "primary_use": [
+      "City",
+      "Highway",
+      "Mixed"
+    ],
+    "resale_value": "High",
+    "service_availability": "Pan-India",
+    "pros": [
+      "Feature-loaded",
+      "Premium interiors",
+      "Smooth CVT"
+    ],
+    "cons": [
+      "Average safety rating",
+      "Pricier than rivals"
+    ],
+    "user_reviews": [
+      "Interior quality is best in class.",
+      "Features list is endless.",
+      "Safety rating lags behind Creta."
+    ]
+  },
+  {
+    "id": "kia-seltos-diesel-htx-2024",
+    "make": "Kia",
+    "model": "Seltos Diesel",
+    "variant": "HTX+",
+    "year": 2024,
+    "segment": "suv",
+    "price_lakhs": 20.49,
+    "fuel_type": "Diesel",
+    "transmission": [
+      "Manual",
+      "AT"
+    ],
+    "mileage_kmpl": 21.0,
+    "engine_cc": 1493,
+    "seating_capacity": 5,
+    "boot_space_litres": 433,
+    "safety_rating_ncap": 3,
+    "reliability_score": 8.2,
+    "maintenance_cost": "Medium",
+    "primary_use": [
+      "Highway",
+      "Mixed"
+    ],
+    "resale_value": "High",
+    "service_availability": "Pan-India",
+    "pros": [
+      "Excellent highway mileage",
+      "Premium features",
+      "Torquey engine"
+    ],
+    "cons": [
+      "Average safety",
+      "Higher cost"
+    ],
+    "user_reviews": [
+      "Diesel makes highway trips very cheap.",
+      "Premium features are worth the price.",
+      "Safety rating could be better."
+    ]
+  },
+  {
+    "id": "toyota-fortuner-4x2-at-2024",
+    "make": "Toyota",
+    "model": "Fortuner",
+    "variant": "4x2 AT",
+    "year": 2024,
+    "segment": "suv",
+    "price_lakhs": 34.99,
+    "fuel_type": "Diesel",
+    "transmission": [
+      "AT"
+    ],
+    "mileage_kmpl": 14.24,
+    "engine_cc": 2755,
+    "seating_capacity": 7,
+    "boot_space_litres": 1022,
+    "safety_rating_ncap": 5,
+    "reliability_score": 9.5,
+    "maintenance_cost": "Medium",
+    "primary_use": [
+      "Highway",
+      "Mixed"
+    ],
+    "resale_value": "High",
+    "service_availability": "Pan-India",
+    "pros": [
+      "Legendary reliability",
+      "7-seater",
+      "Highest resale value",
+      "Commanding presence"
+    ],
+    "cons": [
+      "Very expensive",
+      "Fuel efficiency average"
+    ],
+    "user_reviews": [
+      "Resale value is unmatched.",
+      "Toyota never breaks down.",
+      "Fuel cost is high but worth it."
+    ]
+  },
+  {
+    "id": "mahindra-thar-lx-2024",
+    "make": "Mahindra",
+    "model": "Thar",
+    "variant": "LX Hard Top",
+    "year": 2024,
+    "segment": "suv",
+    "price_lakhs": 17.99,
+    "fuel_type": "Diesel",
+    "transmission": [
+      "Manual",
+      "AT"
+    ],
+    "mileage_kmpl": 15.2,
+    "engine_cc": 2184,
+    "seating_capacity": 4,
+    "boot_space_litres": 230,
+    "safety_rating_ncap": 4,
+    "reliability_score": 8.0,
+    "maintenance_cost": "Medium",
+    "primary_use": [
+      "Highway",
+      "Mixed"
+    ],
+    "resale_value": "High",
+    "service_availability": "Pan-India",
+    "pros": [
+      "Iconic off-road capability",
+      "Unique design",
+      "Great resale value"
+    ],
+    "cons": [
+      "Only 4 seats",
+      "Not practical for families",
+      "Small boot"
+    ],
+    "user_reviews": [
+      "Nothing else like it on Indian roads.",
+      "Off-road capability is class-leading.",
+      "Not a family car."
+    ]
+  },
+  {
+    "id": "mg-hector-sharp-2024",
+    "make": "MG",
+    "model": "Hector",
+    "variant": "Sharp Pro",
+    "year": 2024,
+    "segment": "suv",
+    "price_lakhs": 20.99,
+    "fuel_type": "Petrol",
+    "transmission": [
+      "Manual",
+      "CVT"
+    ],
+    "mileage_kmpl": 14.16,
+    "engine_cc": 1451,
+    "seating_capacity": 5,
+    "boot_space_litres": 587,
+    "safety_rating_ncap": 5,
+    "reliability_score": 7.8,
+    "maintenance_cost": "Medium",
+    "primary_use": [
+      "City",
+      "Highway",
+      "Mixed"
+    ],
+    "resale_value": "Medium",
+    "service_availability": "Limited",
+    "pros": [
+      "Massive 14-inch touchscreen",
+      "5-star safety",
+      "Biggest boot in class"
+    ],
+    "cons": [
+      "Below-average mileage",
+      "Limited service network"
+    ],
+    "user_reviews": [
+      "Infotainment is the best I've seen.",
+      "Boot space is massive.",
+      "Service centers are hard to find outside cities."
+    ]
+  },
+  {
+    "id": "jeep-meridian-overland-2024",
+    "make": "Jeep",
+    "model": "Meridian",
+    "variant": "Overland",
+    "year": 2024,
+    "segment": "suv",
+    "price_lakhs": 36.99,
+    "fuel_type": "Diesel",
+    "transmission": [
+      "AT"
+    ],
+    "mileage_kmpl": 14.5,
+    "engine_cc": 1956,
+    "seating_capacity": 7,
+    "boot_space_litres": 632,
+    "safety_rating_ncap": 5,
+    "reliability_score": 8.0,
+    "maintenance_cost": "High",
+    "primary_use": [
+      "Highway",
+      "Mixed"
+    ],
+    "resale_value": "Medium",
+    "service_availability": "Limited",
+    "pros": [
+      "Premium brand",
+      "7-seater",
+      "5-star safety",
+      "Upscale interior"
+    ],
+    "cons": [
+      "Very expensive to maintain",
+      "Limited service network"
+    ],
+    "user_reviews": [
+      "Most premium 7-seater available.",
+      "Interior is near luxury-car level.",
+      "Service cost is very high."
+    ]
+  },
+  {
+    "id": "mahindra-xuv700-petrol-ax5-2024",
+    "make": "Mahindra",
+    "model": "XUV700 Petrol",
+    "variant": "AX5",
+    "year": 2024,
+    "segment": "suv",
+    "price_lakhs": 22.99,
+    "fuel_type": "Petrol",
+    "transmission": [
+      "Manual",
+      "AT"
+    ],
+    "mileage_kmpl": 13.36,
+    "engine_cc": 1997,
+    "seating_capacity": 7,
+    "boot_space_litres": 810,
+    "safety_rating_ncap": 5,
+    "reliability_score": 8.0,
+    "maintenance_cost": "Medium",
+    "primary_use": [
+      "City",
+      "Mixed"
+    ],
+    "resale_value": "High",
+    "service_availability": "Pan-India",
+    "pros": [
+      "5-star safety",
+      "7-seater",
+      "ADAS features",
+      "Large boot"
+    ],
+    "cons": [
+      "Average petrol mileage",
+      "Wait periods"
+    ],
+    "user_reviews": [
+      "Features at this price are insane.",
+      "7-seater with ADAS is rare.",
+      "Waiting period was long."
+    ]
+  },
+  {
+    "id": "toyota-innova-hycross-vx-2024",
+    "make": "Toyota",
+    "model": "Innova HyCross",
+    "variant": "VX",
+    "year": 2024,
+    "segment": "suv",
+    "price_lakhs": 28.99,
+    "fuel_type": "Hybrid",
+    "transmission": [
+      "eCVT"
+    ],
+    "mileage_kmpl": 21.1,
+    "engine_cc": 1987,
+    "seating_capacity": 7,
+    "boot_space_litres": 900,
+    "safety_rating_ncap": 5,
+    "reliability_score": 9.3,
+    "maintenance_cost": "Low",
+    "primary_use": [
+      "City",
+      "Highway",
+      "Mixed"
+    ],
+    "resale_value": "High",
+    "service_availability": "Pan-India",
+    "pros": [
+      "Hybrid efficiency",
+      "Toyota reliability",
+      "Premium cabin",
+      "7-seater"
+    ],
+    "cons": [
+      "Very expensive",
+      "eCVT not sporty"
+    ],
+    "user_reviews": [
+      "Best MPV in India by far.",
+      "Hybrid efficiency is outstanding.",
+      "Price is steep but justified."
+    ]
+  },
+  {
+    "id": "hyundai-alcazar-prestige-2024",
+    "make": "Hyundai",
+    "model": "Alcazar",
+    "variant": "Prestige",
+    "year": 2024,
+    "segment": "suv",
+    "price_lakhs": 20.99,
+    "fuel_type": "Petrol",
+    "transmission": [
+      "Manual",
+      "AT"
+    ],
+    "mileage_kmpl": 14.5,
+    "engine_cc": 1999,
+    "seating_capacity": 6,
+    "boot_space_litres": 180,
+    "safety_rating_ncap": 5,
+    "reliability_score": 8.2,
+    "maintenance_cost": "Medium",
+    "primary_use": [
+      "City",
+      "Highway",
+      "Mixed"
+    ],
+    "resale_value": "High",
+    "service_availability": "Pan-India",
+    "pros": [
+      "5-star safety",
+      "6-seater captain seats",
+      "Premium feel"
+    ],
+    "cons": [
+      "Small boot with 6 seats",
+      "Average mileage"
+    ],
+    "user_reviews": [
+      "Captain seats are very comfortable.",
+      "Premium feel throughout.",
+      "Boot is very small when seats are up."
+    ]
+  },
+  {
+    "id": "kia-carens-prestige-diesel-2024",
+    "make": "Kia",
+    "model": "Carens",
+    "variant": "Prestige Plus",
+    "year": 2024,
+    "segment": "suv",
+    "price_lakhs": 17.99,
+    "fuel_type": "Diesel",
+    "transmission": [
+      "Manual",
+      "AT"
+    ],
+    "mileage_kmpl": 19.0,
+    "engine_cc": 1493,
+    "seating_capacity": 7,
+    "boot_space_litres": 645,
+    "safety_rating_ncap": 3,
+    "reliability_score": 8.2,
+    "maintenance_cost": "Medium",
+    "primary_use": [
+      "City",
+      "Highway",
+      "Mixed"
+    ],
+    "resale_value": "High",
+    "service_availability": "Pan-India",
+    "pros": [
+      "7-seater at reasonable price",
+      "Good mileage",
+      "Large boot",
+      "Premium features"
+    ],
+    "cons": [
+      "Average safety rating",
+      "Third row for kids mainly"
+    ],
+    "user_reviews": [
+      "Best value 7-seater SUV.",
+      "Diesel mileage is great.",
+      "Third row is good for kids."
+    ]
+  },
+  {
+    "id": "mg-gloster-savvy-2024",
+    "make": "MG",
+    "model": "Gloster",
+    "variant": "Savvy",
+    "year": 2024,
+    "segment": "suv",
+    "price_lakhs": 39.99,
+    "fuel_type": "Diesel",
+    "transmission": [
+      "AT"
+    ],
+    "mileage_kmpl": 13.2,
+    "engine_cc": 1996,
+    "seating_capacity": 7,
+    "boot_space_litres": 1200,
+    "safety_rating_ncap": 5,
+    "reliability_score": 7.8,
+    "maintenance_cost": "High",
+    "primary_use": [
+      "Highway"
+    ],
+    "resale_value": "Medium",
+    "service_availability": "Limited",
+    "pros": [
+      "Luxury SUV features",
+      "7-seater",
+      "Massive boot",
+      "ADAS"
+    ],
+    "cons": [
+      "Very high maintenance",
+      "Limited service network",
+      "Average reliability"
+    ],
+    "user_reviews": [
+      "Most luxurious SUV under 40 lakhs.",
+      "Feature list rivals European SUVs.",
+      "Service network is a serious issue."
+    ]
+  },
+  {
+    "id": "mahindra-bolero-neo-n10-2024",
+    "make": "Mahindra",
+    "model": "Bolero Neo",
+    "variant": "N10",
+    "year": 2024,
+    "segment": "suv",
+    "price_lakhs": 11.99,
+    "fuel_type": "Diesel",
+    "transmission": [
+      "Manual"
+    ],
+    "mileage_kmpl": 17.0,
+    "engine_cc": 1493,
+    "seating_capacity": 7,
+    "boot_space_litres": 400,
+    "safety_rating_ncap": 0,
+    "reliability_score": 7.5,
+    "maintenance_cost": "Low",
+    "primary_use": [
+      "Mixed"
+    ],
+    "resale_value": "Medium",
+    "service_availability": "Pan-India",
+    "pros": [
+      "Budget 7-seater",
+      "High ground clearance",
+      "Rugged build"
+    ],
+    "cons": [
+      "No NCAP rating",
+      "Basic features",
+      "Old-school ride"
+    ],
+    "user_reviews": [
+      "Great value 7-seater.",
+      "Ground clearance is impressive.",
+      "Ride quality is rough but it's built for tough roads."
+    ]
+  },
+  {
+    "id": "skoda-kodiaq-style-2024",
+    "make": "Skoda",
+    "model": "Kodiaq",
+    "variant": "Style",
+    "year": 2024,
+    "segment": "suv",
+    "price_lakhs": 39.99,
+    "fuel_type": "Petrol",
+    "transmission": [
+      "DSG"
+    ],
+    "mileage_kmpl": 13.0,
+    "engine_cc": 1984,
+    "seating_capacity": 7,
+    "boot_space_litres": 720,
+    "safety_rating_ncap": 5,
+    "reliability_score": 7.8,
+    "maintenance_cost": "High",
+    "primary_use": [
+      "Highway",
+      "Mixed"
+    ],
+    "resale_value": "Medium",
+    "service_availability": "Limited",
+    "pros": [
+      "European premium",
+      "7-seater",
+      "5-star safety",
+      "DSG"
+    ],
+    "cons": [
+      "Very expensive to maintain",
+      "Limited service"
+    ],
+    "user_reviews": [
+      "Feels genuinely premium.",
+      "DSG gearbox is superb.",
+      "Service cost and availability is a headache."
+    ]
+  },
+  {
+    "id": "maruti-ertiga-vxi-2024",
+    "make": "Maruti Suzuki",
+    "model": "Ertiga",
+    "variant": "VXi",
+    "year": 2024,
+    "segment": "muv",
+    "price_lakhs": 9.69,
+    "fuel_type": "Petrol",
+    "transmission": [
+      "Manual",
+      "AT"
+    ],
+    "mileage_kmpl": 19.34,
+    "engine_cc": 1462,
+    "seating_capacity": 7,
+    "boot_space_litres": 803,
+    "safety_rating_ncap": 3,
+    "reliability_score": 8.5,
+    "maintenance_cost": "Low",
+    "primary_use": [
+      "City",
+      "Mixed"
+    ],
+    "resale_value": "High",
+    "service_availability": "Pan-India",
+    "pros": [
+      "Best-value 7-seater",
+      "Low maintenance",
+      "Large boot"
+    ],
+    "cons": [
+      "Basic features",
+      "Average safety rating"
+    ],
+    "user_reviews": [
+      "Best 7-seater at this price point.",
+      "Very reliable and cheap to maintain.",
+      "Features are basic but it ticks all boxes."
+    ]
+  },
+  {
+    "id": "maruti-xl6-alpha-2024",
+    "make": "Maruti Suzuki",
+    "model": "XL6",
+    "variant": "Alpha",
+    "year": 2024,
+    "segment": "muv",
+    "price_lakhs": 13.69,
+    "fuel_type": "Petrol",
+    "transmission": [
+      "Manual",
+      "AT"
+    ],
+    "mileage_kmpl": 19.01,
+    "engine_cc": 1462,
+    "seating_capacity": 6,
+    "boot_space_litres": 803,
+    "safety_rating_ncap": 3,
+    "reliability_score": 8.4,
+    "maintenance_cost": "Low",
+    "primary_use": [
+      "City",
+      "Mixed"
+    ],
+    "resale_value": "High",
+    "service_availability": "Pan-India",
+    "pros": [
+      "Captain seats",
+      "Low maintenance",
+      "Premium Ertiga"
+    ],
+    "cons": [
+      "Average safety",
+      "6-seater limits flexibility"
+    ],
+    "user_reviews": [
+      "Captain seats are very comfortable.",
+      "Feels premium over Ertiga.",
+      "Safety rating is disappointing."
+    ]
+  },
+  {
+    "id": "toyota-innova-crysta-gx-2024",
+    "make": "Toyota",
+    "model": "Innova Crysta",
+    "variant": "GX",
+    "year": 2024,
+    "segment": "muv",
+    "price_lakhs": 20.49,
+    "fuel_type": "Petrol",
+    "transmission": [
+      "Manual",
+      "AT"
+    ],
+    "mileage_kmpl": 10.43,
+    "engine_cc": 2694,
+    "seating_capacity": 7,
+    "boot_space_litres": 1020,
+    "safety_rating_ncap": 5,
+    "reliability_score": 9.4,
+    "maintenance_cost": "Low",
+    "primary_use": [
+      "Highway",
+      "Mixed"
+    ],
+    "resale_value": "High",
+    "service_availability": "Pan-India",
+    "pros": [
+      "Toyota legendary reliability",
+      "7-seater",
+      "Massive boot",
+      "5-star safety"
+    ],
+    "cons": [
+      "Poor petrol mileage",
+      "Old platform"
+    ],
+    "user_reviews": [
+      "Most reliable MPV ever made.",
+      "Rear passengers love the comfort.",
+      "Petrol mileage is poor."
+    ]
+  },
+  {
+    "id": "kia-carens-premium-petrol-2024",
+    "make": "Kia",
+    "model": "Carens",
+    "variant": "Premium",
+    "year": 2024,
+    "segment": "muv",
+    "price_lakhs": 14.99,
+    "fuel_type": "Petrol",
+    "transmission": [
+      "Manual",
+      "DCT"
+    ],
+    "mileage_kmpl": 16.5,
+    "engine_cc": 1353,
+    "seating_capacity": 7,
+    "boot_space_litres": 645,
+    "safety_rating_ncap": 3,
+    "reliability_score": 8.0,
+    "maintenance_cost": "Medium",
+    "primary_use": [
+      "City",
+      "Mixed"
+    ],
+    "resale_value": "High",
+    "service_availability": "Pan-India",
+    "pros": [
+      "7-seater",
+      "Premium feel",
+      "Good infotainment",
+      "DCT option"
+    ],
+    "cons": [
+      "Average safety",
+      "DCT can be hesitant"
+    ],
+    "user_reviews": [
+      "Best looking MPV in India.",
+      "Infotainment is top-notch.",
+      "DCT hesitates in bumper-to-bumper."
+    ]
+  },
+  {
+    "id": "mahindra-marazzo-m8-2024",
+    "make": "Mahindra",
+    "model": "Marazzo",
+    "variant": "M8",
+    "year": 2024,
+    "segment": "muv",
+    "price_lakhs": 16.99,
+    "fuel_type": "Diesel",
+    "transmission": [
+      "Manual"
+    ],
+    "mileage_kmpl": 17.0,
+    "engine_cc": 1497,
+    "seating_capacity": 8,
+    "boot_space_litres": 700,
+    "safety_rating_ncap": 4,
+    "reliability_score": 7.8,
+    "maintenance_cost": "Medium",
+    "primary_use": [
+      "Highway",
+      "Mixed"
+    ],
+    "resale_value": "Medium",
+    "service_availability": "Pan-India",
+    "pros": [
+      "8-seater",
+      "Good safety rating",
+      "Diesel efficiency"
+    ],
+    "cons": [
+      "Manual only",
+      "Bland design",
+      "Average resale"
+    ],
+    "user_reviews": [
+      "8 seats at this price is great.",
+      "Diesel mileage is solid.",
+      "Design is very plain."
+    ]
+  },
+  {
+    "id": "maruti-ertiga-cng-2024",
+    "make": "Maruti Suzuki",
+    "model": "Ertiga CNG",
+    "variant": "VXi",
+    "year": 2024,
+    "segment": "muv",
+    "price_lakhs": 11.99,
+    "fuel_type": "CNG",
+    "transmission": [
+      "Manual"
+    ],
+    "mileage_kmpl": 26.11,
+    "engine_cc": 1462,
+    "seating_capacity": 7,
+    "boot_space_litres": 803,
+    "safety_rating_ncap": 3,
+    "reliability_score": 8.3,
+    "maintenance_cost": "Low",
+    "primary_use": [
+      "City"
+    ],
+    "resale_value": "High",
+    "service_availability": "Pan-India",
+    "pros": [
+      "Cheapest to run 7-seater",
+      "Low maintenance",
+      "Wide service network"
+    ],
+    "cons": [
+      "Manual only",
+      "CNG availability in smaller cities"
+    ],
+    "user_reviews": [
+      "Running cost for a 7-seater is unbelievable.",
+      "Great for large family on budget.",
+      "CNG availability varies by city."
+    ]
+  },
+  {
+    "id": "force-gurkha-5-door-2024",
+    "make": "Force",
+    "model": "Gurkha",
+    "variant": "5-Door",
+    "year": 2024,
+    "segment": "muv",
+    "price_lakhs": 17.99,
+    "fuel_type": "Diesel",
+    "transmission": [
+      "Manual"
+    ],
+    "mileage_kmpl": 12.0,
+    "engine_cc": 2596,
+    "seating_capacity": 7,
+    "boot_space_litres": 500,
+    "safety_rating_ncap": 0,
+    "reliability_score": 7.2,
+    "maintenance_cost": "High",
+    "primary_use": [
+      "Mixed"
+    ],
+    "resale_value": "Medium",
+    "service_availability": "Limited",
+    "pros": [
+      "Pure off-road capability",
+      "Unique character",
+      "7-seater"
+    ],
+    "cons": [
+      "Very low mileage",
+      "High maintenance",
+      "No NCAP rating",
+      "Limited service"
+    ],
+    "user_reviews": [
+      "Ultimate off-road machine.",
+      "Very unique choice on road.",
+      "Not for city or mileage-conscious buyers."
+    ]
+  },
+  {
+    "id": "toyota-rumion-v-2024",
+    "make": "Toyota",
+    "model": "Rumion",
+    "variant": "V AT",
+    "year": 2024,
+    "segment": "muv",
+    "price_lakhs": 13.99,
+    "fuel_type": "Petrol",
+    "transmission": [
+      "AT"
+    ],
+    "mileage_kmpl": 19.7,
+    "engine_cc": 1462,
+    "seating_capacity": 7,
+    "boot_space_litres": 803,
+    "safety_rating_ncap": 3,
+    "reliability_score": 8.6,
+    "maintenance_cost": "Low",
+    "primary_use": [
+      "City",
+      "Mixed"
+    ],
+    "resale_value": "High",
+    "service_availability": "Pan-India",
+    "pros": [
+      "Toyota reliability + Ertiga platform",
+      "Automatic + 7-seater",
+      "Low maintenance"
+    ],
+    "cons": [
+      "Average safety rating",
+      "Premium over Ertiga"
+    ],
+    "user_reviews": [
+      "Toyota badge adds peace of mind.",
+      "Automatic 7-seater is rare at this price.",
+      "Just like Ertiga but better badge."
+    ]
+  },
+  {
+    "id": "tata-nexon-ev-max-xz-plus-2024",
+    "make": "Tata",
+    "model": "Nexon EV Max",
+    "variant": "XZ+ LR",
+    "year": 2024,
+    "segment": "compact_suv",
+    "price_lakhs": 19.99,
+    "fuel_type": "Electric",
+    "transmission": [
+      "Automatic"
+    ],
+    "mileage_kmpl": null,
+    "engine_cc": null,
+    "seating_capacity": 5,
+    "range_km": 453,
+    "boot_space_litres": 350,
+    "safety_rating_ncap": 5,
+    "reliability_score": 8.2,
+    "maintenance_cost": "Low",
+    "primary_use": [
+      "City",
+      "Mixed"
+    ],
+    "resale_value": "Medium",
+    "service_availability": "Pan-India",
+    "pros": [
+      "5-star safety",
+      "453km range",
+      "Fast charging",
+      "Low running cost"
+    ],
+    "cons": [
+      "Charging infra still growing",
+      "Higher upfront cost",
+      "Long trips need planning"
+    ],
+    "user_reviews": [
+      "Best EV under 20 lakhs.",
+      "Running cost is incredible.",
+      "Long trips need charging stop planning."
+    ]
+  },
+  {
+    "id": "tata-tiago-ev-xz-plus-2024",
+    "make": "Tata",
+    "model": "Tiago EV",
+    "variant": "XZ+ Long Range",
+    "year": 2024,
+    "segment": "hatchback",
+    "price_lakhs": 11.99,
+    "fuel_type": "Electric",
+    "transmission": [
+      "Automatic"
+    ],
+    "mileage_kmpl": null,
+    "engine_cc": null,
+    "seating_capacity": 5,
+    "range_km": 315,
+    "boot_space_litres": 242,
+    "safety_rating_ncap": 4,
+    "reliability_score": 8.0,
+    "maintenance_cost": "Low",
+    "primary_use": [
+      "City"
+    ],
+    "resale_value": "Medium",
+    "service_availability": "Pan-India",
+    "pros": [
+      "Cheapest EV in India",
+      "315km city range",
+      "Low running cost"
+    ],
+    "cons": [
+      "City EV only",
+      "Range drops on highways",
+      "Small boot"
+    ],
+    "user_reviews": [
+      "Cheapest way to go electric.",
+      "Perfect for city commuting.",
+      "Wouldn't take on long highway trips."
+    ]
+  },
+  {
+    "id": "tata-punch-ev-adventure-2024",
+    "make": "Tata",
+    "model": "Punch EV",
+    "variant": "Adventure Long Range",
+    "year": 2024,
+    "segment": "compact_suv",
+    "price_lakhs": 14.99,
+    "fuel_type": "Electric",
+    "transmission": [
+      "Automatic"
+    ],
+    "mileage_kmpl": null,
+    "engine_cc": null,
+    "seating_capacity": 5,
+    "range_km": 421,
+    "boot_space_litres": 366,
+    "safety_rating_ncap": 5,
+    "reliability_score": 8.1,
+    "maintenance_cost": "Low",
+    "primary_use": [
+      "City",
+      "Mixed"
+    ],
+    "resale_value": "Medium",
+    "service_availability": "Pan-India",
+    "pros": [
+      "5-star safety EV",
+      "421km range",
+      "SUV practicality"
+    ],
+    "cons": [
+      "Charging infrastructure needed",
+      "Range drops in cold/highway"
+    ],
+    "user_reviews": [
+      "Best value EV SUV in India.",
+      "5-star safety in an EV is rare.",
+      "Need to plan charging for long trips."
+    ]
+  },
+  {
+    "id": "mg-windsor-ev-excite-2024",
+    "make": "MG",
+    "model": "Windsor EV",
+    "variant": "Excite",
+    "year": 2024,
+    "segment": "suv",
+    "price_lakhs": 13.5,
+    "fuel_type": "Electric",
+    "transmission": [
+      "Automatic"
+    ],
+    "mileage_kmpl": null,
+    "engine_cc": null,
+    "seating_capacity": 5,
+    "range_km": 331,
+    "boot_space_litres": 604,
+    "safety_rating_ncap": 5,
+    "reliability_score": 7.8,
+    "maintenance_cost": "Low",
+    "primary_use": [
+      "City",
+      "Mixed"
+    ],
+    "resale_value": "Medium",
+    "service_availability": "Limited",
+    "pros": [
+      "Massive boot",
+      "Reclining rear seats",
+      "5-star safety",
+      "Affordable EV"
+    ],
+    "cons": [
+      "Limited service network",
+      "BaaS model confusing"
+    ],
+    "user_reviews": [
+      "Reclining rear seats are a game changer.",
+      "Massive boot for an EV.",
+      "Battery-as-a-service model needs understanding."
+    ]
+  },
+  {
+    "id": "hyundai-creta-electric-sx-2024",
+    "make": "Hyundai",
+    "model": "Creta Electric",
+    "variant": "SX(O) Long Range",
+    "year": 2024,
+    "segment": "compact_suv",
+    "price_lakhs": 23.5,
+    "fuel_type": "Electric",
+    "transmission": [
+      "Automatic"
+    ],
+    "mileage_kmpl": null,
+    "engine_cc": null,
+    "seating_capacity": 5,
+    "range_km": 473,
+    "boot_space_litres": 433,
+    "safety_rating_ncap": 5,
+    "reliability_score": 8.7,
+    "maintenance_cost": "Low",
+    "primary_use": [
+      "City",
+      "Mixed"
+    ],
+    "resale_value": "High",
+    "service_availability": "Pan-India",
+    "pros": [
+      "Best EV range in segment",
+      "5-star safety",
+      "Premium interior",
+      "V2L feature"
+    ],
+    "cons": [
+      "Expensive",
+      "Charging time for DC fast charge"
+    ],
+    "user_reviews": [
+      "Best premium EV under 25 lakhs.",
+      "Range of 473km is very comfortable.",
+      "V2L feature is very useful during power cuts."
+    ]
+  },
+  {
+    "id": "mahindra-xuv400-ec-pro-2024",
+    "make": "Mahindra",
+    "model": "XUV400 EC Pro",
+    "variant": "Long Range",
+    "year": 2024,
+    "segment": "compact_suv",
+    "price_lakhs": 17.99,
+    "fuel_type": "Electric",
+    "transmission": [
+      "Automatic"
+    ],
+    "mileage_kmpl": null,
+    "engine_cc": null,
+    "seating_capacity": 5,
+    "range_km": 456,
+    "boot_space_litres": 378,
+    "safety_rating_ncap": 5,
+    "reliability_score": 8.0,
+    "maintenance_cost": "Low",
+    "primary_use": [
+      "City",
+      "Mixed"
+    ],
+    "resale_value": "Medium",
+    "service_availability": "Pan-India",
+    "pros": [
+      "456km range",
+      "5-star safety",
+      "Fast 50kW DC charging"
+    ],
+    "cons": [
+      "Interior quality lags rivals",
+      "Software updates needed"
+    ],
+    "user_reviews": [
+      "Great range at this price.",
+      "Fast charging is a big plus.",
+      "Interior feels cheaper than rivals."
+    ]
+  },
+  {
+    "id": "byd-atto3-premium-2024",
+    "make": "BYD",
+    "model": "Atto 3",
+    "variant": "Premium",
+    "year": 2024,
+    "segment": "suv",
+    "price_lakhs": 33.99,
+    "fuel_type": "Electric",
+    "transmission": [
+      "Automatic"
+    ],
+    "mileage_kmpl": null,
+    "engine_cc": null,
+    "seating_capacity": 5,
+    "range_km": 521,
+    "boot_space_litres": 440,
+    "safety_rating_ncap": 5,
+    "reliability_score": 8.5,
+    "maintenance_cost": "Low",
+    "primary_use": [
+      "City",
+      "Highway",
+      "Mixed"
+    ],
+    "resale_value": "Medium",
+    "service_availability": "Limited",
+    "pros": [
+      "521km range",
+      "5-star safety",
+      "Premium interior",
+      "Fast charging"
+    ],
+    "cons": [
+      "Very expensive",
+      "Limited service network",
+      "Chinese brand perception"
+    ],
+    "user_reviews": [
+      "Range anxiety is non-existent.",
+      "Interior is very premium.",
+      "Service network needs significant expansion."
+    ]
+  }
+]

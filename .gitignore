@@ -1,0 +1,10 @@
+.env
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+.claude
+CarDekho Group _ AI Assignment.pdf
+plan.md
+scripts/
