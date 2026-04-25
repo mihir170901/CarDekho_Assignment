@@ -4,6 +4,8 @@ An AI-powered conversational car buying assistant that helps users go from "I do
 
 **Live URL:** https://cardekhoai.streamlit.app/
 
+> **Note:** For the best experience, use Light mode — Settings (☰) → Settings → Theme → Light.
+
 ---
 
 ## Quick Start
