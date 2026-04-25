@@ -1,7 +1,7 @@
 import json
 import streamlit as st
 from backend.filter import load_cars, filter_cars
-from backend.recommender import extract_params_from_message, get_recommendations, get_followup_response
+from backend.recommender import check_scope, extract_params_from_message, get_recommendations, get_followup_response
 
 # ── Page config ──────────────────────────────────────────────────────────────
 st.set_page_config(
@@ -91,23 +91,38 @@ def render_shortlist(shortlist: dict):
 def process_user_message(user_input: str):
     params = st.session_state.user_params
     stage = st.session_state.stage
+    params_before = dict(params)  # snapshot before any extraction
 
-    # Extract params from message — pass pending params so AI knows what was being asked
-    pending = missing_params(params)
-    with st.spinner("Understanding your requirements..."):
+    # Scope check + param extraction under one spinner
+    with st.spinner("Thinking..."):
+        decline = check_scope(user_input)
+        if decline:
+            st.session_state.messages.append({"role": "assistant", "content": decline})
+            return
+
+        # Extract params — pass pending params so AI knows what was being asked
+        pending = missing_params(params)
         updated_params = extract_params_from_message(user_input, params, pending_params=pending)
     st.session_state.user_params = updated_params
 
-    # If we already have a shortlist, handle as follow-up
+    # If we already have a shortlist, check if user is updating params or asking a question
     if stage == "followup" and st.session_state.shortlist:
-        with st.spinner("Thinking..."):
-            reply = get_followup_response(
-                st.session_state.shortlist.get("shortlist", []),
-                user_input,
-                st.session_state.messages,
-            )
-        st.session_state.messages.append({"role": "assistant", "content": reply})
-        return
+        param_changed = any(updated_params.get(k) != params_before.get(k) for k in REQUIRED_PARAMS)
+
+        if param_changed:
+            # User is refining (e.g. "show diesel instead") — re-run full catalog search
+            # Fall through to filter + recommend below
+            pass
+        else:
+            # Pure follow-up question — return plain chat response
+            with st.spinner("Looking that up..."):
+                reply = get_followup_response(
+                    st.session_state.shortlist.get("shortlist", []),
+                    user_input,
+                    st.session_state.messages,
+                )
+            st.session_state.messages.append({"role": "assistant", "content": reply})
+            return
 
     # Check what's still missing
     missing = missing_params(updated_params)
@@ -118,6 +133,9 @@ def process_user_message(user_input: str):
         return
 
     # All params collected — run filter + AI recommendation
+    if stage == "followup":
+        st.session_state.messages.append({"role": "assistant", "content": "Got it! Let me update your shortlist with the new preferences."})
+
     with st.spinner("Finding your best matches..."):
         candidates = filter_cars(st.session_state.cars, updated_params)
 

@@ -6,7 +6,10 @@ from dotenv import load_dotenv
 load_dotenv()
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
-SYSTEM_PROMPT = """You are an expert Indian car buying advisor. Your job is to help confused buyers find their perfect car.
+SYSTEM_PROMPT = """You are an expert Indian car buying advisor for CarDekho India. Your job is to help confused buyers find their perfect car from CarDekho's catalog.
+
+You only answer questions related to cars, car buying, and automotive topics. If asked anything outside this scope, politely decline and redirect to car buying.
+
 
 You will receive:
 1. A list of candidate cars (pre-filtered to match hard constraints)
@@ -77,25 +80,62 @@ def get_followup_response(shortlist: list, user_message: str, chat_history: list
         f"{m['role'].upper()}: {m['content']}" for m in chat_history[-6:]
     )
 
-    prompt = f"""You are an expert Indian car buying advisor.
+    prompt = f"""You are an expert Indian car buying advisor for CarDekho India. You help buyers choose from cars available in the Indian market.
 
-The buyer has already received this shortlist:
+## Scope rules — follow strictly:
+1. If the question is NOT related to cars, automotive topics, or car buying decisions (e.g. sports, politics, celebrity info, general knowledge, coding, etc.) — respond only with:
+   "I'm here to help you find and compare cars. I can't help with that, but feel free to ask me anything about car buying, specs, or comparisons!"
+   Do not answer the off-topic question at all.
+
+2. If the question is about a car or brand NOT present in CarDekho's catalog (e.g. Ferrari, Lamborghini, Rolls Royce, rare imports) — you may share brief general knowledge about that car, but always end with:
+   "Note: This car isn't currently available in CarDekho's catalog. I can help you find the best options from our available range."
+
+3. For everything else — car comparisons, specs, advice, shortlist questions — answer helpfully and concisely.
+
+## Context:
+Current shortlist shown to buyer:
 {json.dumps(shortlist, indent=2)}
 
 Recent conversation:
 {history_text}
 
-Buyer's follow-up question: {user_message}
+Buyer's question: {user_message}
 
-Answer concisely and helpfully. Reference specific cars from the shortlist by name.
-If asked to compare, give a direct recommendation. Keep it under 150 words."""
+Keep responses under 150 words. Be direct and helpful."""
 
     response = client.chat.completions.create(
         model="gpt-4o-mini",
         messages=[{"role": "user", "content": prompt}],
-        temperature=0.5,
+        temperature=0.3,
     )
     return response.choices[0].message.content
+
+
+def check_scope(message: str) -> str | None:
+    """
+    Returns a decline message if the input is off-topic, else None.
+    Called before param extraction so guardrails apply from the very first message.
+    """
+    prompt = f"""You are a scope checker for a car buying assistant.
+
+Classify this user message into one of two categories:
+- "on_topic": anything related to cars, car buying, specs, brands, automotive topics, or providing car preferences (budget, fuel, seats, etc.)
+- "off_topic": anything unrelated to cars or automotive topics (politics, sports, celebrities, general knowledge, coding, etc.)
+
+Message: "{message}"
+
+Respond with JSON only: {{"category": "on_topic"}} or {{"category": "off_topic"}}"""
+
+    response = client.chat.completions.create(
+        model="gpt-4o-mini",
+        response_format={"type": "json_object"},
+        messages=[{"role": "user", "content": prompt}],
+        temperature=0,
+    )
+    result = json.loads(response.choices[0].message.content)
+    if result.get("category") == "off_topic":
+        return "I'm here to help you find and compare cars. I can't help with that, but feel free to ask me anything about car buying, specs, or comparisons!"
+    return None
 
 
 def extract_params_from_message(message: str, existing_params: dict, pending_params: list = None) -> dict:
